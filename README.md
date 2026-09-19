@@ -1,7 +1,7 @@
 # Inayath Noon
 
 **Senior Data Analyst** at ByteDance  
-6 years building data infrastructure, metric frameworks, and production models across fintech, big tech, and e-commerce.
+6 years building data infrastructure, metric frameworks and production models big tech and e-commerce.
 
 Own analytics end-to-end: architected global data infrastructure, engineered segmentation frameworks delivering $4.4M in monthly savings, built gradient-boosted forecasting models for 9,000+ employees, and shipped AI-powered self-serve query tools.
 
