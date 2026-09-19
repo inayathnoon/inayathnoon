@@ -1,29 +1,27 @@
 # Inayath Noon
 
-**Senior Data Analyst** – Six years across fintech, big tech, and e-commerce.
+**Senior Data Analyst** at ByteDance  
+6 years building data infrastructure, metric frameworks, and production models across fintech, big tech, and e-commerce.
 
-I build data infrastructure, metric frameworks, and production machine learning systems that drive business decisions. Expertise in time-series forecasting, marketing-mix modeling, and payments analytics.
+Own analytics end-to-end: architected global data infrastructure, engineered segmentation frameworks delivering $4.4M in monthly savings, built gradient-boosted forecasting models for 9,000+ employees, and shipped AI-powered self-serve query tools.
 
-📍 **Dubai, UAE** · Open to Senior Data Analyst roles in fintech and payments
+📍 **Dubai, UAE** · [LinkedIn](https://linkedin.com/in/inayathnoon) · inayathnoon@gmail.com
 
 ---
 
 ## Selected work
 
-- **[ai-sql-validation](https://github.com/inayathnoon/ai-sql-validation)** – Validation harness for LLM-generated SQL (syntax, schema, safety, execution checks)
-- **[demand-forecast](https://github.com/inayathnoon/demand-forecast)** – SARIMAX demand forecasting with exogenous regressors (holidays, promotions)
-- **[marketing-cost-optimisation](https://github.com/inayathnoon/marketing-cost-optimisation)** – Marketing-mix modeling with adstock and saturation curves
-- **[payments-analytics](https://github.com/inayathnoon/payments-analytics)** – Payments funnel, settlement reconciliation, chargeback analysis
+- **ai-sql-validation** – LLM SQL validation harness (syntax, schema, safety, execution checks)
+- **demand-forecast** – SARIMAX forecasting with exogenous regressors and cross-validation
+- **marketing-mix-modeling** – Adstock, saturation curves, marginal ROI per channel
+- **payments-analytics** – Funnel analysis, settlement reconciliation, chargeback modeling
 
 ---
 
 ## Stack
 
-**SQL** · **Python** · **Tableau** · **Power BI** · **dbt** · **Snowflake** · **BigQuery** · **scikit-learn** · **Postgres** · **Git**
+**SQL** · **Python** · **Tableau** · **Power BI** · **BigQuery** · **Databricks** · **scikit-learn** · **XGBoost** · **PySpark**
 
 ---
 
-## Contact
-
-- **LinkedIn:** [inayathnoon](https://www.linkedin.com/in/inayathnoon/)
-- **Email:** inayathnoon@gmail.com
+*Data analyst who builds infrastructure, then takes analytics beyond reporting into experimentation and production modelling to drive measurable business impact.*
