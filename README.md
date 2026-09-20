@@ -5,7 +5,7 @@
 
 Own analytics end-to-end: architected global data infrastructure, engineered segmentation frameworks delivering $4.4M in monthly savings, built gradient-boosted forecasting models for 9,000+ employees, and shipped AI-powered self-serve query tools.
 
-📍 **Dubai, UAE** · [LinkedIn](https://linkedin.com/in/inayathnoon) · inayathnoon@gmail.com
+📍 **Dubai, UAE** · [LinkedIn](https://linkedin.com/in/inayathnoon) · inayath.iitkgp@gmail.com
 
 ---
 
